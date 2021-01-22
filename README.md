@@ -8,5 +8,8 @@ The micelle has a normal distribution of molecules.
 
 The script takes the inputs: radius in nanometers, head atom number, original molecule file name, number of atoms to copy and number of molecules desired for micelle.
 
-Example micelle: 
+Example micelle:
+
+
+
 ![Image of Micelle](https://github.com/RavinderSian/MicelleGenerator/blob/main/micelle.JPG)
